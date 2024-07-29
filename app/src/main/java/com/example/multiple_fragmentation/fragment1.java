@@ -8,9 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-public class FirstFragment extends Fragment {
+public class fragment1 extends Fragment {
 
-    public FirstFragment() {
+    public fragment1() {
         // Required empty public constructor
     }
 
